@@ -1,2 +1,2 @@
 # NTURacing-HW
-Homework files are in the homework/topics directory.
+Homework files are in the homework/topic directory.
