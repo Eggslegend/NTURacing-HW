@@ -1,4 +1,4 @@
-Student ID: B11502151 /n
-Name: 陳彥安 /n
-Department: Mechanical Engineering /n
+Student ID: B11502151 
+Name: 陳彥安 
+Department: Mechanical Engineering 
 Grade: Freshmen
