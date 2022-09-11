@@ -1,0 +1,27 @@
+<!-- git.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<git>
+    <task1>
+        TASK_KEY1
+    </task1>
+    <task2>
+        TASK_KEY2
+    </task2>
+    <task3>
+        TASK_KEY3
+    </task3>
+    <task4>
+        <line0>
+            TASK4_LINE0_KEY
+        </line0>
+        <line1>
+            TASK4_LINE1_KEY
+        </line1>
+        <line2>
+            TASK4_LINE2_KEY
+        </line2>
+        <line3>
+            TASK4_LINE3_KEY
+        </line3>
+    </task4>
+</git>
